@@ -3,6 +3,8 @@
 
 This application integrates AI and sentiment analysis to serve as an efficient customer service chatbot. Users can submit reviews and receive instant responses, making it ideal for businesses and service providers with a large customer base. By automating customer support, it helps reduce the need for additional support agents, ultimately cutting costs and boosting profitability.
 
+Google_collab URL = [https://colab.research.google.com/drive/1dyhAKDp7hAdUBFbt_sMZM4Ge_bVp3Kn8?usp=sharing](https://colab.research.google.com/drive/1dyhAKDp7hAdUBFbt_sMZM4Ge_bVp3Kn8?usp=sharing)
+
 **Technologies Used:**
 
 1. **Hugging Face Pipeline**: Utilized for sentiment analysis to assess the tone of customer reviews before forwarding them to the AI.
